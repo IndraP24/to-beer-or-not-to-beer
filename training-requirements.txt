@@ -1,6 +1,6 @@
 # opencv-python
 numpy
-tensorflow==1.14
+tensorflow==1.15.0
 keras==2.2.4
 pillow
 google_images_download
